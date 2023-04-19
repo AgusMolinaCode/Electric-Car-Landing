@@ -84,9 +84,9 @@ export default function Contact() {
                     </div>
                 </div>
             </div>
-            {/* <div className='mt-[116px]'>
+            <div className='mt-[116px]'>
                 <Map />
-            </div> */}
+            </div>
         </div>
     )
 }
