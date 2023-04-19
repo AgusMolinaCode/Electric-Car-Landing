@@ -29,7 +29,7 @@ export default function Benefits() {
                 variants={fadeIn('right', 'backIn', 0.3, 1.7)}
                 >
                     <h1 className='text-white w-full md:max-w-[850px] text-center pt-[90px] font-capitan flex justify-center mx-auto uppercase text-[2rem] p-2 md:text-[3.5rem]'>All the benefits you will get when you shop with us</h1>
-                    <p className='font-bold text-white text-center pt-5'>Take advantage of everything you can have now by buying your new car at Prime Car</p>
+                    <p className='font-bold text-white p-2 text-center pt-5'>Take advantage of everything you can have now by buying your new car at Prime Car</p>
                 </motion.div>
 
                 <motion.div 
